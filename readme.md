@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 1. Create an environment file for Telegram API credentials:
 - Copy the environment template:
 ```bash
-cp.env.template.env.dev
+cp .env.template .env.dev
 ```
 - Fill out the `.env.dev` file with your Telegram API data.
 
